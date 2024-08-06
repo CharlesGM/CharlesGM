@@ -1,7 +1,7 @@
 # 💫 About Me:
 DevOps Engineer with 5yrs experience.<br><br>1. Experience working on Azure, GCP and AWS (in order of most used)<br>2. 4yrs experience with Kubernetes<br>3. 5yrs experience with Github<br>4. 3yrs experience with Github Actions
 
-<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/NMmZRq9xEFMAAAAC/rubbing-hands-dexter.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/NMmZRq9xEFMAAAAC/rubbing-hands-dexter.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-mbugua-b7525ba5) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gachango) 
