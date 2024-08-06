@@ -1,28 +1,20 @@
-<h1 align="center">Hi 👋, I'm Charles Mbugua</h1>
-<h3 align="center">A passionate DevOps Engineer developer from Kenya</h3>
+### Hi there 👋, my name is Charles
+#### I am DevOps Engineer with a passion for automation and S.R.E.
+![I am DevOps Engineer with a passion for automation and S.R.E.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesgm&label=Profile%20views&color=0e75b6&style=flat" alt="charlesgm" /> </p>
+I am a devops engineer with 5+ yrs of working on and deploying production-grade blockchain, fintech, and agritech applications on Azure, GCP and AWS
 
-- 🔭 I’m currently working on **Terraform, Ethereum & Hyperledger Fabric**
+Skills: K8s, Bash, Terraform, AWS/Azure/GCP, Docker, CI/CD, Github Actions
 
-- 🌱 I’m currently learning **Golang, Python, Ethereum, Hyperledger Fabric**
+- 🔭 I’m currently working on I am currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, popular CI/CD designs.  Occassionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
+- Also planning to write more on medium (you will find little content there for now :-) )
+- 🌱 I’m currently learning Ethereum 
+- 📫 How to reach me: gachangocmbugua@gmail.com 
+- ⚡ Fun fact: Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia 
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@gachango](https://medium.com/@gachango)
 
-- 💬 Ask me about **Kubernetes, Terraform Cloud (AWS, GCP, Azure), Github actions**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesGM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@gachango)  
 
-- 📫 How to reach me **gachangocmbugua@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesGM&show_icons=true)  
 
-- ⚡ Fun fact **Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charles-mbugua-b7525ba5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-mbugua-b7525ba5" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesgm&show_icons=true&locale=en&layout=compact" alt="charlesgm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgm&" alt="charlesgm" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CharlesGM)  
