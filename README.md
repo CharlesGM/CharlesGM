@@ -25,11 +25,11 @@ I am a devops engineer with 5+ yrs of working on and deploying production-grade 
 
 **A little more about me ...**
 
-- 👨🏽‍💻 whoami && echo "DevOps Sorcerer conjuring up modular repos to automate cloud components. Crafting spells for monitoring tools and enchanting CI/CD pipelines. Summoning blockchain creations on Ethereum and Hyperledger Fabric to my GitHub realm."
-- 🤔 /tmp && echo "Drafting arcane scripts for Medium - still initializing content, stay tuned for magic!"
-- 🛖 pwd && echo "Currently traversing the Ethereum blockchain, decoding its mysteries and mastering smart contracts."
-- 📨 /var/spool/mail && echo "Reach me at gachangocmbugua@gmail.com for collabs, quests, and epic challenges."
-- ⚡ apt-update && echo "Recharging by marathoning classic cartoons: PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia. Nostalgia++!"
+- 👨🏽‍💻 **whoami && echo:** DevOps Sorcerer conjuring up modular repos to automate cloud components. Crafting spells for monitoring tools and enchanting CI/CD pipelines. Summoning blockchain creations on Ethereum and Hyperledger Fabric to my GitHub realm.
+- 🤔 **/tmp && echo:** Drafting arcane scripts for Medium - still initializing content, stay tuned for magic!
+- 🛖 **pwd && echo:** Currently traversing the Ethereum blockchain, decoding its mysteries, and mastering smart contracts.
+- 📨 **/var/spool/mail && echo:** Reach me at gachangocmbugua@gmail.com for collabs, quests, and epic challenges.
+- ⚡ **apt-update && echo:** Recharging by marathoning classic cartoons: PowerPuff Girls, Peabody, and Sherman, the Lorax, Zootopia. Nostalgia++!
 
 
 
