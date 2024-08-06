@@ -20,7 +20,7 @@ I am a devops engineer with 5+yrs of working on and deploying production-grade b
 
 **A little more about me ...**
 - 🏯 **whoami:** I’m currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, popular CI/CD designs.  Occasionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
-- 🥋 **/tmp:**  Also planning to write more on medium (you will find little content there for now :-) )
+- 🥋 **/tmp:**  Planning to write more on medium (you will find little content there for now :-) )
 - 🌱 **pwd:** I’m currently learning Ethereum 
 - 📫 **/var/spool/mail:** gachangocmbugua@gmail.com 
 - ⚡ **apt-update:** Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia 
