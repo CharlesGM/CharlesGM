@@ -20,10 +20,10 @@ I am a devops engineer with 5+yrs of working on and deploying production-grade b
 
 **A little more about me ...**
 - 🔭 I’m currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, popular CI/CD designs.  Occasionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
-- Also planning to write more on medium (you will find little content there for now :-) )
-- 🌱 I’m currently learning Ethereum 
-- 📫 How to reach me: gachangocmbugua@gmail.com 
-- ⚡ Fun fact: Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia 
+- 🥋 **Looking to do:**  Also planning to write more on medium (you will find little content there for now :-) )
+- 🌱 **Currently Learning:** I’m currently learning Ethereum 
+- 📫 **How to reach me:** gachangocmbugua@gmail.com 
+- ⚡ **Fun fact:** Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesGM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@gachango)  
 
