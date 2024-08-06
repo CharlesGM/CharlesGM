@@ -8,7 +8,8 @@
 
 I am a devops engineer with 5+ yrs of working on and deploying production-grade blockchain, fintech, and agritech applications on Azure, GCP, and AWS
 
-**Skills**: 
+### Skills:
+
 * 🧠 K8s
 * 🦾 Bash
 * 🦿Terraform
