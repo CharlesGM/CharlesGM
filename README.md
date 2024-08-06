@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Charles Mbugua</h1>
-<h3 align="center">A passionate DevOps and Infrastructure Engineer from Kenya</h3>
+<h3 align="center">A passionate DevOps Engineer developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesgm&label=Profile%20views&color=0e75b6&style=flat" alt="charlesgm" /> </p>
+
+- 🔭 I’m currently working on **Terraform, Ethereum & Hyperledger Fabric**
 
 - 🌱 I’m currently learning **Golang, Python, Ethereum, Hyperledger Fabric**
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@gachango](https://medium.com/@gachango)
 
-- 💬 Ask me about **Kubernetes, Cloud (AWS, GCP, Azure), Github actions**
+- 💬 Ask me about **Kubernetes, Terraform Cloud (AWS, GCP, Azure), Github actions**
 
 - 📫 How to reach me **gachangocmbugua@gmail.com**
+
+- ⚡ Fun fact **Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
