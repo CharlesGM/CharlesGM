@@ -1,12 +1,22 @@
-<div style="background-color: #2f2f2f; color: white; padding: 20px;">
+<div style="background-color: #2f2f2f; color: #2f2f2f; padding: 20px;">
 
-### Hi there 👋, my name is Charles!
+### Hi there 👋, my name is Charles 🇰🇪!
 
 ![DevOps Engineer with a passion for automation and S.R.E.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif)
 
 **Intro:** I am a devops engineer with 5+yrs of working on and deploying production-grade blockchain, fintech, and agritech applications on Azure, GCP and AWS
 
-**Skills**: K8s, Bash, Terraform, AWS/Azure/GCP, Docker, CI/CD, Github Actions
+**Skills**: 
+* 🧠 K8s
+* 🦾 Bash
+* 🦿Terraform
+* 🥋 AWS/Azure/GCP
+* 💻 Docker
+* 💡 Github Actions
+* 🛠️ Helm
+* 🔭 📅ArgoCD
+* 🧬  Hyperledger Fabric (HLF)
+* 📊 Prometheus, Grafana
 
 **A little more about me ...**
 - 🔭 I’m currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, popular CI/CD designs.  Occasionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
