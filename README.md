@@ -16,9 +16,9 @@ I am a devops engineer with 5+ yrs of working on and deploying production-grade 
 * 💻 Docker
 * 💡 Github Actions
 * 🛠️ Helm
-* 🔭 📅ArgoCD
-* 🧬  Hyperledger Fabric (HLF)
-* 📊 Prometheus, Grafana
+* 🔭 ArgoCD
+* 🧬 Hyperledger Fabric (HLF)
+* 📊 Prometheus, Grafana, ELK
 
 **A little more about me ...**
 - 🏯 **whoami:** I’m currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, and popular CI/CD designs.  Occasionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
