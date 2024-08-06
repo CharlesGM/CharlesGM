@@ -24,11 +24,17 @@ I am a devops engineer with 5+ yrs of working on and deploying production-grade 
 * 📊 Prometheus, Grafana, ELK
 
 **A little more about me ...**
-- 👨🏽‍💻 **whoami:** I’m currently working on creating short modular repos that automate various components in organizations on the cloud such as monitoring tools, and popular CI/CD designs.  Occasionally I will upload some personal blockchain work that I have done and continue to do in Ethereum and Hyperledger Fabric.
-- 🤔 **/tmp:**  Planning to write more on medium (you will find little content there for now :-) )
-- 🛖 **pwd:** I’m currently learning Ethereum 
-- 📨 **/var/spool/mail:** gachangocmbugua@gmail.com 
-- ⚡ **apt-update:** Love re-watching favorite cartoon shows such as PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia 
+
+- 👨🏽‍💻 whoami && echo "DevOps Sorcerer conjuring up modular repos to automate cloud components. Crafting spells for monitoring tools and enchanting CI/CD pipelines. Summoning blockchain creations on Ethereum and Hyperledger Fabric to my GitHub realm."
+- 🤔 /tmp && echo "Drafting arcane scripts for Medium - still initializing content, stay tuned for magic!"
+- 🛖 pwd && echo "Currently traversing the Ethereum blockchain, decoding its mysteries and mastering smart contracts."
+- 📨 /var/spool/mail && echo "Reach me at gachangocmbugua@gmail.com for collabs, quests, and epic challenges."
+- ⚡ apt-update && echo "Recharging by marathoning classic cartoons: PowerPuff Girls, Peabody and Sherman, the Lorax, Zootopia. Nostalgia++!"
+
+
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesGM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@gachango)  
 
