@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Charles from Kenya 🇰🇪!
 
-I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade blockchain, fintech, and agritech solutions across major cloud platforms.
+I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade fintech, blockchain, and agritech solutions across major cloud platforms.
 
 ### 🛠 Tech Stack
 
