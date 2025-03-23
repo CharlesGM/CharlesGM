@@ -7,10 +7,10 @@ I'm a DevOps Engineer with 5+ years of experience architecting and deploying pro
 **Cloud & Infrastructure**
 - ☁️ Multi-Cloud: AWS | Azure | GCP
 - 🚢 Containers: Docker | Linux
-- 🎡 Orchestration: Kubernetes (EKS, GKE)
+- 🎡 Orchestration: Kubernetes (AKS, GKE, EKS)
 - 🏗️ IaC: Terraform | Crossplane
 - 📦 Package Management: Helm Charts
-- 🔄 CI/CD: GitHub Actions | ArgoCD | GitOps
+- 🔄 CI/CD: GitHub Actions | Azure DevOps | ArgoCD | GitOps
 
 **Security & Networking**
 - 🔒 Identity: IAM | OAuth | MFA
