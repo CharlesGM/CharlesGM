@@ -36,7 +36,7 @@ $ whoami
 > DevOps Sorcerer crafting scalable cloud infrastructure and automated pipelines
 
 $ pwd
-> /blockchain/ethereum/smart-contracts
+> /infrastructure/pipelines/observability/reliability/security
 
 $ cat interests.txt
 > - Building modular infrastructure as code
