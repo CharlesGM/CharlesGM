@@ -1,38 +1,53 @@
-## Hi there 👋, my name is Charles and I'm from 🇰🇪!
+## Hi there 👋, I'm Charles from Kenya 🇰🇪!
 
+I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade blockchain, fintech, and agritech solutions across major cloud platforms.
 
+### 🛠 Tech Stack
 
-I am a devops engineer with 5+ yrs of working on and deploying production-grade blockchain, fintech, and agritech applications on Azure, GCP, and AWS
+**Cloud & Infrastructure**
+- ☁️ AWS | Azure | GCP
+- 🚢 Kubernetes | Docker
+- 🏗️ Terraform | Helm
+- 🔄 ArgoCD | GitHub Actions
 
-### Skills:
+**Monitoring & Blockchain**
+- 📊 Prometheus | Grafana | ELK Stack
+- ⛓️ Hyperledger Fabric | Ethereum
+- 🔐 Smart Contracts
 
-* 🧠 K8s
-* 🦾 Bash
-* 🦿Terraform
-* 🥋 AWS/Azure/GCP
-* 💻 Docker
-* 💡 Github Actions
-* 🛠️ Helm
-* 🔭 ArgoCD
-* 🧬 Hyperledger Fabric (HLF)
-* 📊 Prometheus, Grafana, ELK
+### 🧙‍♂️ About Me
 
-**A little more about me ...**
+```bash
+$ whoami
+> DevOps Sorcerer crafting scalable cloud infrastructure and automated pipelines
 
-- 👨🏽‍💻 **whoami && echo:** DevOps Sorcerer conjuring up modular repos to automate cloud components. Crafting spells for monitoring tools and enchanting CI/CD pipelines. Summoning blockchain creations on Ethereum and Hyperledger Fabric to my GitHub realm.
-- 🤔 **/tmp && echo:** Drafting arcane scripts for Medium - still initializing content, stay tuned for magic!
-- 🛖 **pwd && echo:** Currently traversing the Ethereum blockchain, decoding its mysteries, and mastering smart contracts.
-- 📨 **/var/spool/mail && echo:** Reach me at gachangocmbugua@gmail.com for collabs, quests, and epic challenges.
-- ⚡ **apt-update && echo:** Recharging by marathoning classic cartoons: PowerPuff Girls, Peabody, and Sherman, the Lorax, Zootopia. Nostalgia++!
+$ pwd
+> /blockchain/ethereum/smart-contracts
 
+$ cat interests.txt
+> - Building modular infrastructure as code
+> - Automating everything that can be automated
+> - Exploring blockchain technologies
+> - Contributing to open-source projects
 
+$ cat current_focus.txt
+> - Diving deep into Ethereum development
+> - Writing technical articles on Medium
+> - Exploring new DevOps tools and practices
+```
 
+### 📫 Connect With Me
+- 📧 Email: gachangocmbugua@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)
+- 📝 [Medium](https://medium.com/@gachango)
+- 🐙 [GitHub](https://github.com/CharlesGM)
 
+### 🎯 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesGM&show_icons=true&theme=dracula)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlesGM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://medium.com/@gachango)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CharlesGM&theme=dracula)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesGM&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CharlesGM)  
+### ⚡ Fun Fact
+When I'm not coding, you'll find me enjoying classic animations like PowerPuff Girls, Mr. Peabody & Sherman, The Lorax, and Zootopia! 🎬
 
