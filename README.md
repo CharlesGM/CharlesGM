@@ -1,7 +1,5 @@
 ## Hi there 👋, my name is Charles and I'm from 🇰🇪!
 
-![DevOps Engineer with a passion for automation and S.R.E.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZzcHpqZDBwYnVlcW5tNjJva3NkMnJpMzVqMGF4M3BsdDA5aXZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
-
 
 
 I am a devops engineer with 5+ yrs of working on and deploying production-grade blockchain, fintech, and agritech applications on Azure, GCP, and AWS
