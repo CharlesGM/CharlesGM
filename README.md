@@ -5,15 +5,29 @@ I'm a DevOps Engineer with 5+ years of experience architecting and deploying pro
 ### 🛠 Tech Stack
 
 **Cloud & Infrastructure**
-- ☁️ AWS | Azure | GCP
-- 🚢 Kubernetes | Docker
-- 🏗️ Terraform | Helm
-- 🔄 ArgoCD | GitHub Actions
+- ☁️ Multi-Cloud: AWS | Azure | GCP
+- 🚢 Containers: Docker | Linux
+- 🎡 Orchestration: Kubernetes (EKS, GKE)
+- 🏗️ IaC: Terraform | Crossplane
+- 📦 Package Management: Helm Charts
+- 🔄 CI/CD: GitHub Actions | ArgoCD | GitOps
 
-**Monitoring & Blockchain**
-- 📊 Prometheus | Grafana | ELK Stack
-- ⛓️ Hyperledger Fabric | Ethereum
-- 🔐 Smart Contracts
+**Security & Networking**
+- 🔒 Identity: IAM | OAuth | MFA
+- 🛡️ Security Testing: SAST/DAST
+- 🏢 Compliance: PCI-DSS
+- 🌐 Networking: VPCs | OSI Model
+- 🔐 Network Security
+
+**Monitoring & Observability**
+- 📊 Metrics: Prometheus | Grafana
+- 🔍 Logging: ELK Stack
+- 📈 Performance Monitoring
+
+**Development & Blockchain**
+- 🐧 Scripting: Bash | Python
+- ⛓️ DLT: Hyperledger Fabric
+- 🔗 Smart Contracts
 
 ### 🧙‍♂️ About Me
 
