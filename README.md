@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Charles](https://ledgerndary.co/) from Kenya!
+## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
 
 I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade fintech, blockchain, and agritech solutions across major cloud platforms.
 
