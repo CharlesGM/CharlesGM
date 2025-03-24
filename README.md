@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Charles from Kenya 🇰🇪!
+## Hi there 👋, I'm Charles from Kenya!  [Charles](https://ledgerndary.co/)
 
 I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade fintech, blockchain, and agritech solutions across major cloud platforms.
 
@@ -55,6 +55,7 @@ $ cat current_focus.txt
 - 💼 [LinkedIn](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)
 - 📝 [Medium](https://medium.com/@gachango)
 - 🐙 [GitHub](https://github.com/CharlesGM)
+- 🌐 [Website](https://ledgerndary.co/)
 
 ### 🎯 GitHub Stats
 
