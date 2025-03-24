@@ -1,4 +1,4 @@
-## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
+## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a> from Kenya!
 
 I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade fintech, blockchain, and agritech solutions across major cloud platforms.
 
@@ -52,10 +52,10 @@ $ cat current_focus.txt
 
 ### 📫 Connect With Me
 - 📧 Email: gachangocmbugua@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/charles-mbugua-b7525ba5/)
-- 📝 [Medium](https://medium.com/@gachango)
-- 🐙 [GitHub](https://github.com/CharlesGM)
-- 🌐 [Website](https://ledgerndary.co/)
+- 💼 <a href="https://www.linkedin.com/in/charles-mbugua-b7525ba5/" target="_blank">LinkedIn</a>
+- 📝 <a href="https://medium.com/@gachango" target="_blank">Medium</a>
+- 🐙 <a href="https://github.com/CharlesGM" target="_blank">GitHub</a>
+- 🌐 <a href="https://ledgerndary.co/" target="_blank">Website</a>
 
 ### 🎯 GitHub Stats
 
