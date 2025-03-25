@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
 
-I'm a DevOps Engineer with 5+ years of experience architecting and deploying production-grade fintech, blockchain, and agritech solutions across major cloud platforms.
+From dismantling gadgets as a kid to architecting cloud systems today, I'm an SRE/DevOps Engineer who turns chaos into code—building resilient fintech, blockchain, and agritech solutions that hum (and glow green --> ArgoCD/Grafana 😉) when they work.
 
 ### 🛠 Tech Stack
 
