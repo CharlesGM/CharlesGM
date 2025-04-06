@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
 
-From dismantling gadgets as a kid to architecting cloud systems today, I'm an SRE/DevOps Engineer who turns chaos into code—building resilient fintech, blockchain, and agritech solutions that hum (and glow green --> ArgoCD/Grafana 😉) when they work.
+From dismantling gadgets as a kid to architecting cloud systems today, I'm an SRE/DevOps Engineer who turns chaos into code—building resilient fintech, *blockchain*, and agritech solutions that hum (and glow green --> ArgoCD/Grafana 😉) when they work.
 
 ### 🛠 Tech Stack
 
