@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
 
-From dismantling gadgets as a kid to architecting cloud systems today, I'm an SRE/DevOps Engineer who turns chaos into code—building resilient fintech, **blockchain**, and agritech solutions that hum (and glow green --> ArgoCD/Grafana 😉) when they work.
+DevOps/SRE engineer who solves real infrastructure problems with practical solutions. 
+I work with cloud systems, automation, and distributed systems daily. Currently experimenting with Blockchain applications and building compute setups to run local LLMs without relying on third-party services.
 
 ### 🛠 Tech Stack
 
@@ -65,5 +66,3 @@ $ cat current_focus.txt
 
 ### ⚡ Fun Fact
 When I'm not coding, you'll find me enjoying classic animations like PowerPuff Girls, Mr. Peabody & Sherman, The Lorax, and Zootopia! 🎬
-
-
