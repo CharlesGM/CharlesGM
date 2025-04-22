@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm <a href="https://ledgerndary.co/" target="_blank">Charles</a>!
 
-DevOps/SRE engineer who solves real infrastructure problems with practical solutions. 
-I work with cloud systems, automation, and distributed systems daily. 
+DevOps/SRE engineer who solves real infrastructure problems with practical solutions. \n
+I work with cloud systems, automation, and distributed systems daily. \n
 Currently experimenting with Blockchain applications and building compute setups to run local LLMs without relying on third-party services.
 
 ### 🛠 Tech Stack
