@@ -31,7 +31,7 @@ I keep production systems up, cut cloud bills, and build the tooling that makes 
 | **Observability** | Multi-tenant Grafana / Mimir / Loki / Tempo for 45 customer orgs, shipped as Terraform. ~26,000 metric series at $182/mo vs a $3,100 baseline. |
 | **FinOps** | ~$1M realized annualized savings across two enterprise AWS estates, each change validated against live billing before execution. |
 | **Platform & CI** | Production Go on a self-hosted Actions runner platform: dispatch-race fix, vCPU-aware autoscaling, ephemeral instance per job. |
-| **AI for ops** | Read-only diagnostic agents and MCP servers that cross-check firing alerts against live AWS and label each finding verified or contradicted. |
+| **AI for ops** | Read-only diagnostic agents and MCP servers that cross-check firing alerts against live AWS and label each finding verified or contradicted. See [sre-briefing](https://github.com/CharlesGM/sre-briefing). |
 
 ---
 
@@ -67,6 +67,7 @@ Most of my production work lives in private and employer repositories. A few pub
 
 | Project | What it is |
 |---|---|
+| **[sre-briefing](https://github.com/CharlesGM/sre-briefing)** | Multi-agent SRE morning briefing. An orchestrator delegates to read-only metrics, GitHub, and Jira agents, cross-checks firing alerts against live AWS, and labels each finding confirmed, contradicted, or unverifiable. Read-only enforced in five independent places. Hand-written agent loop, vendor-neutral, 378 tests. |
 | **[oidc-gcp-integration-project](https://github.com/CharlesGM/oidc-gcp-integration-project)** | Keyless CI/CD via GCP Workload Identity Federation, GitHub Actions, Terraform. How I kill long-lived cloud credentials. |
 | **[nethermind-network-manager](https://github.com/CharlesGM/nethermind-network-manager)** | Helm deployment for Nethermind Ethereum nodes on Kubernetes: miners, bootnodes, configurable networks. |
 | **[erc-20-geth-gcp](https://github.com/CharlesGM/erc-20-geth-gcp)** | ERC-20 deployment on Ethereum Sepolia using Geth on GCP, provisioned with Terraform. |
