@@ -16,8 +16,8 @@ I keep production systems up, cut cloud bills, and build the tooling that makes 
 
 | | |
 |---|---|
-| 💰 **$746K** | verified annualized AWS savings, 2nd of 20 engineers |
-| 📊 **45 / 45** | SaaS instances onboarded to observability in 7 days |
+| 💰 **~1M** | verified annualized AWS savings|
+| 📊 **45 / 45** | SaaS customer orgs onboarded to Grafana observability (LGTM) in 7 days |
 | ⚙️ **~200 runners** | self-hosted CI fleet at ~1,800 jobs/hour |
 | 🟢 **99.99%** | uptime on a 1M+ transactions/month payment platform |
 
@@ -29,7 +29,7 @@ I keep production systems up, cut cloud bills, and build the tooling that makes 
 |---|---|
 | **Incident response** | P1 / showstopper triage across US, EU, and Asia. Root-caused a silent alert-drop discarding real incidents on four clusters. |
 | **Observability** | Multi-tenant Grafana / Mimir / Loki / Tempo for a 45-instance fleet, shipped as Terraform. ~26,000 metric series at $182/mo vs a $3,100 baseline. |
-| **FinOps** | $746K realized annualized savings across 52 items at 96% of estimate, each validated against live billing before execution. |
+| **FinOps** | ~$1M realized annualized savings across 52 items at 96% of estimate, each validated against live billing before execution. |
 | **Platform & CI** | Production Go on a self-hosted Actions runner platform: dispatch-race fix, vCPU-aware autoscaling, ephemeral instance per job. |
 | **AI for ops** | Read-only diagnostic agents and MCP servers that cross-check firing alerts against live AWS and label each finding verified or contradicted. |
 
@@ -77,7 +77,7 @@ Most of my production work lives in private and employer repositories. A few pub
 
 | Role | Company | Period |
 |---|---|---|
-| DevOps Engineer | Trilogy (remote) | Sep 2025 – present |
+| Senior DevOps Engineer | Trilogy (remote) | Sep 2025 – present |
 | Senior DevSecOps & Cloud Engineer | Diamond Trust Bank Africa | Jan 2025 – Aug 2025 |
 | Senior DevOps Engineer | Fujitsu Uvance (remote) | Sep 2022 – Aug 2024 |
 | Lead Cloud Engineer | Orteo Payment Systems | Mar 2020 – Feb 2022 |
