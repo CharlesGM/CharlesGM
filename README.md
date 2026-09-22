@@ -29,7 +29,7 @@ I keep production systems up, cut cloud bills, and build the tooling that makes 
 |---|---|
 | **Incident response** | P1 / showstopper triage across US, EU, and Asia. Root-caused a silent alert-drop discarding real incidents on four clusters. |
 | **Observability** | Multi-tenant Grafana / Mimir / Loki / Tempo for 45 customer orgs, shipped as Terraform. ~26,000 metric series at $182/mo vs a $3,100 baseline. |
-| **FinOps** | ~$1M realized annualized savings across the [redacted] and [redacted] AWS estates, each change validated against live billing before execution. |
+| **FinOps** | ~$1M realized annualized savings across two enterprise AWS estates, each change validated against live billing before execution. |
 | **Platform & CI** | Production Go on a self-hosted Actions runner platform: dispatch-race fix, vCPU-aware autoscaling, ephemeral instance per job. |
 | **AI for ops** | Read-only diagnostic agents and MCP servers that cross-check firing alerts against live AWS and label each finding verified or contradicted. |
 
