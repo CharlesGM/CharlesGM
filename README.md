@@ -16,7 +16,7 @@ I keep production systems up, cut cloud bills, and build the tooling that makes 
 
 | | |
 |---|---|
-| 💰 **~1M** | verified annualized AWS savings|
+| 💰 **~$1M** | verified annualized AWS savings|
 | 📊 **45 / 45** | SaaS customer orgs onboarded to Grafana observability (LGTM) in 7 days |
 | ⚙️ **~200 runners** | self-hosted CI fleet at ~1,800 jobs/hour |
 | 🟢 **99.99%** | uptime on a 1M+ transactions/month payment platform |
